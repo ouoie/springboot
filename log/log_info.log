@@ -1,0 +1,18 @@
+2024-01-08 10:57:43.608 [background-preinit-21] INFO  o.h.validator.internal.util.Version 21 <clinit> - HV000001: Hibernate Validator 6.2.4.Final
+2024-01-08 10:57:43.623 [main-55] INFO  c.g.greathealth.FleetRootApplication 55 logStarting - Starting FleetRootApplication using Java 1.8.0_144 on tian with PID 25388 (C:\Users\85834\Documents\学工管理平台\springboot\smp\target\classes started by 85834 in C:\Users\85834\Documents\学工管理平台\springboot)
+2024-01-08 10:57:43.623 [main-640] INFO  c.g.greathealth.FleetRootApplication 640 logStartupProfileInfo - The following 1 profile is active: "dev"
+2024-01-08 10:57:45.557 [main-173] INFO  o.a.coyote.http11.Http11NioProtocol 173 log - Initializing ProtocolHandler ["http-nio-9090"]
+2024-01-08 10:57:45.558 [main-173] INFO  o.a.catalina.core.StandardService 173 log - Starting service [Tomcat]
+2024-01-08 10:57:45.558 [main-173] INFO  o.a.catalina.core.StandardEngine 173 log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-01-08 10:57:45.680 [main-173] INFO  o.a.c.c.C.[.[localhost].[/fleet] 173 log - Initializing Spring embedded WebApplicationContext
+2024-01-08 10:57:46.309 [main-31] INFO  o.h.jpa.internal.util.LogHelper 31 logPersistenceUnitInformation - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-08 10:57:46.353 [main-44] INFO  org.hibernate.Version 44 logVersion - HHH000412: Hibernate ORM core version 5.6.10.Final
+2024-01-08 10:57:46.514 [main-56] INFO  o.h.annotations.common.Version 56 <clinit> - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-01-08 10:57:47.249 [main-975] INFO  c.alibaba.druid.pool.DruidDataSource 975 init - {dataSource-1} inited
+2024-01-08 10:57:47.263 [main-175] INFO  org.hibernate.dialect.Dialect 175 <init> - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-01-08 10:57:47.526 [main-52] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator 52 initiateService - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-01-08 10:57:47.685 [main-219] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration 219 openEntityManagerInViewInterceptor - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-08 10:57:50.583 [main-173] INFO  o.a.coyote.http11.Http11NioProtocol 173 log - Starting ProtocolHandler ["http-nio-9090"]
+2024-01-08 10:57:50.640 [main-61] INFO  c.g.greathealth.FleetRootApplication 61 logStarted - Started FleetRootApplication in 7.455 seconds (JVM running for 8.26)
+2024-01-08 10:57:51.471 [RMI TCP Connection(3)-192.168.20.221-173] INFO  o.a.c.c.C.[.[localhost].[/fleet] 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 10:58:25.592 [schedule-pool-1-56] INFO  sys-user 56 run - [127.0.0.1]内网IP[admin][Success][登录成功]

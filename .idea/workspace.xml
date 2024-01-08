@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0025cc2c-9270-4c7f-9512-2d8a506d52f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2aT9hYZxDXBRZMIMGaDEVZclmgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3383915" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="smp_core" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="smp_core" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FleetRootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="smp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.greathealth.greathealth.FleetRootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0025cc2c-9270-4c7f-9512-2d8a506d52f7" name="Default Changelist" comment="" />
+      <created>1704331821622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704331821622</updated>
+      <workItem from="1704331824435" duration="5038000" />
+      <workItem from="1704336973726" duration="2640000" />
+      <workItem from="1704339679225" duration="346000" />
+      <workItem from="1704348172069" duration="6549000" />
+      <workItem from="1704416943633" duration="22000" />
+      <workItem from="1704681959438" duration="2735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="319" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1704348397134">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="448" y="319" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1704348397134" />
+    <state x="797" y="409" key="FileChooserDialogImpl" timestamp="1704338766873">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="797" y="409" key="FileChooserDialogImpl/0.0.2048.1232@0.0.2048.1232" timestamp="1704338766873" />
+    <state width="1341" height="233" key="GridCell.Tab.0.bottom" timestamp="1704364687314">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.0.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687314" />
+    <state width="1341" height="233" key="GridCell.Tab.0.center" timestamp="1704364687314">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.0.center/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687314" />
+    <state width="1341" height="233" key="GridCell.Tab.0.left" timestamp="1704364687314">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.0.left/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687314" />
+    <state width="1341" height="233" key="GridCell.Tab.0.right" timestamp="1704364687314">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.0.right/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687314" />
+    <state width="1341" height="233" key="GridCell.Tab.1.bottom" timestamp="1704364687315">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.1.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687315" />
+    <state width="1341" height="233" key="GridCell.Tab.1.center" timestamp="1704364687315">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.1.center/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687315" />
+    <state width="1341" height="233" key="GridCell.Tab.1.left" timestamp="1704364687314">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.1.left/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687314" />
+    <state width="1341" height="233" key="GridCell.Tab.1.right" timestamp="1704364687315">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1341" height="233" key="GridCell.Tab.1.right/0.0.2048.1232@0.0.2048.1232" timestamp="1704364687315" />
+    <state x="518" y="299" key="SettingsEditor" timestamp="1704339726228">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="518" y="299" key="SettingsEditor/0.0.2048.1232@0.0.2048.1232" timestamp="1704339726228" />
+    <state x="244" y="262" width="1548" height="772" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1704348509409">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="244" y="262" width="1548" height="772" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1704348509409" />
+    <state x="724" y="348" width="625" height="536" key="find.popup" timestamp="1704684290817">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="724" y="348" width="625" height="536" key="find.popup/0.0.2048.1232@0.0.2048.1232" timestamp="1704684290817" />
+  </component>
+</project>

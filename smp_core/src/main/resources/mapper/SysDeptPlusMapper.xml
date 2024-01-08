@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.greathealth.greathealth.mapper.SysDeptPlusMapper">
+    <select id="findByDeptTypeAndDepartmentId" resultType="com.greathealth.greathealth.domain.entity.SysDeptEntity">
+        select *
+        from sys_dept
+        where dept_type = #{deptType}
+          and department_id = #{departmentId}
+    </select>
+    <select id="findByParentId" resultType="com.greathealth.greathealth.domain.entity.SysDeptEntity">
+        select *
+        from sys_dept
+        where parent_id = #{parentId}
+    </select>
+
+
+    <select id="selectDeptById"  resultType="com.greathealth.greathealth.domain.entity.SysDeptEntity" >
+        select * from sys_dept where dept_id = #{deptId}
+    </select>
+    <select id="selectParentById"  resultType="com.greathealth.greathealth.domain.entity.SysDeptEntity" >
+        select * from sys_dept where  parent_id = #{parentId}
+    </select>
+</mapper>
